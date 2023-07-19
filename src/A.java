@@ -29,8 +29,6 @@ private static final class ByIdsSpecification<T> implements Specification<T> {
 */
 public class A {
 
-    Object
-
     static int aStaticField;
 
     GenericType1<GenericType2<?>> genVar2;
